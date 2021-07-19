@@ -1,8 +1,8 @@
 👋 Hi, I’m @rekjuh
 
-👀 I’m interested in Python, audio processing, GIS, BI and visualizing & analyzing data on various platforms (Google DataStudio, MongoDB etc).
+👀 I’m interested in Python, audio processing, GIS, BI and visualizing & analyzing data on Google DataStudio and MongoDB.
 
-🌱 I’m currently learning audio processing (FFT, spectograms) on Python & using Arduino Uno to collect and process data.
+🌱 I’m currently learning audio processing on Python (FFT and spectograms) & using Arduino Uno to collect and process data.
 
 💞️ I’m open to collaborate on almost anything!
 
