@@ -1,8 +1,8 @@
-👋 Hi, I’m @rekjuh
+👋 Hi!
 
-👀 I’m interested in Python, GIS and visualizing & analyzing data and audio processing.
+👀 I’m interested in GIS and visualizing & analyzing open data.
 
-🌱 I’m currently learning Python, React and CSS.
+🌱 I’m currently learning more about everything.
 
 💞️ I’m open to collaborate on almost anything!
 
